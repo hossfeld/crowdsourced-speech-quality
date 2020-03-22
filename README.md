@@ -1,4 +1,4 @@
-# crowdsourced-speech-quality
+# Crowdsourced subjective speech quality assessment database
 
 The subjective quality of transmitted speech is traditionally assessed in a controlled laboratory environment according to ITU-T Rec. P.800. In turn, with crowdsourcing, crowdworkers participate in a subjective online experiment using their own listening device, and in their own working environment.
 
@@ -11,6 +11,14 @@ model its impact on validity and reliability.
 ## Databased Description
 The database is published to the community and provides the subjective data from one of the crowdsourcing studies. A detailed description of the crowdsourcing study and the results can be found in the paper below. 
 
+## Investigators
+The investigators in this research are
+* Babak Naderi, 
+* Tobias Hoßfeld (tobias.hossfeld@uni-wuerzburg.de), Professor and head of [Chair of Communication Networks, University of Würzburg](http://www.comnet.informatik.uni-wuerzburg.de/)
+* Matthias Hirth, 
+* Florian Metzger,
+* Sebastian Möller, 
+* Rafael Zequeira Jiménez
 
 ## Copyright Notice
 
