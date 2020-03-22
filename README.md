@@ -21,8 +21,8 @@ The investigators in this research are
 * Rafael Zequeira Jiménez
 
 ## Copyright Notice
-
-Permission is hereby granted, without written agreement and without license or royalty fees, to use, copy, modify, and distribute this database and its documentation for any purpose, provided that the copyright notice in its entirety appear in all copies of this database, and the original source of this database is acknowledged in any publication that reports research using this database.
+This database is published under the license: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+Permission is hereby granted, without written agreement and without license or royalty fees, to use, copy, modify, and distribute this database and its documentation for any purpose, provided that the copyright notice in its entirety appear in all copies of this database, and the original source of this database is acknowledged in any publication that reports research using this database. If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.
 
 Originial source: The following paper is to be cited in the bibliography whenever the database is used.
 * Babak Naderi, Tobias Hoßfeld, Matthias Hirth, Florian Metzger, Sebastian Möller, Rafael Zequeira Jiménez, "Impact of the Number of Votes on the Reliability and Validity of Subjective Speech Quality Assessment in the Crowdsourcing Approach", 2020 Twelfth International Conference on Quality of Multimedia Experience (QoMEX)
