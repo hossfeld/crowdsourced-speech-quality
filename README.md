@@ -11,16 +11,15 @@ model its impact on validity and reliability.
 ## Database Description
 The database is published to the community and provides the subjective data from one of the crowdsourcing studies. A detailed description of the crowdsourcing study and the results can be found in the paper below. 
 
-For each of the three crowdsourcing experiments (XYZ = 401,501,701), the following two files are available which contain the subjective data from the crowdsourcing experiments as described in the QoMEX 2020 paper below.
+For each of the three crowdsourcing experiments (XYZ = 401,501,701), the following two files are available which contain the subjective data from the crowdsourcing experiments as described in the **[QoMEX 2020] paper** below.
 
-csXYZ_ratingsPerCondition.json
-* condition: integer
-* ratings: [list of ratings from users with ratings on a 5-point scale (1,2,3,4,5)]
-
-csXYZ_ratingsPerUser.json
-* userid: integer
-* conditions: [list of conditions rated by the user]
-* ratings: [list of ratings for the corresponding conditions]
+* `csXYZ_ratingsPerCondition.json`
+  * condition: integer
+  * ratings: [list of ratings from users with ratings on a 5-point scale (1,2,3,4,5)]
+* `csXYZ_ratingsPerUser.json`
+  * userid: integer
+  * conditions: [list of conditions rated by the user]
+  * ratings: [list of ratings for the corresponding conditions]
 
 The crowdsourcing experiments contain the following nubmer of conditions and votes.
 
