@@ -34,7 +34,7 @@ The investigators in this research are
 * Babak Naderi, 
 * Tobias Hoßfeld (tobias.hossfeld@uni-wuerzburg.de), Professor and head of [Chair of Communication Networks, University of Würzburg](http://www.comnet.informatik.uni-wuerzburg.de/)
 * Matthias Hirth (matthias.hirth@tu-ilmenau.de), Jun.-Professor and head of [User-centric Analysis of Multimedia Data Group, TU Ilmenau](https://www.tu-ilmenau.de/en/mt-nam/)
-* Florian Metzger,
+* Florian Metzger (florian.metzger@uni-wuerzburg.de), Postdoc Researcher at the [Chair of Communication Networks, University of Würzburg](http://www.comnet.informatik.uni-wuerzburg.de/)
 * Sebastian Möller, 
 * Rafael Zequeira Jiménez
 
