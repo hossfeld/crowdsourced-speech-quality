@@ -8,7 +8,7 @@ experiments on different platforms were conducted to evaluate the overall qualit
 Absolute Category Rating procedure. The results provide a suggestion on the required number of votes per condition, and allow to
 model its impact on validity and reliability.
 
-## Databased Description
+## Database Description
 The database is published to the community and provides the subjective data from one of the crowdsourcing studies. A detailed description of the crowdsourcing study and the results can be found in the paper below. 
 
 For each of the three crowdsourcing experiments (XYZ = 401,501,701), the following two files are available which contain the subjective data from the crowdsourcing experiments as described in the QoMEX 2020 paper below.
@@ -22,6 +22,13 @@ csXYZ_ratingsPerUser.json
 * conditions: [list of conditions rated by the user]
 * ratings: [list of ratings for the corresponding conditions]
 
+The crowdsourcing experiments contain the following nubmer of conditions and votes.
+
+| CS Experiment | #Conditions | #User  | Avg. votes per condition | Min. #votes per cond. | Total #votes |
+| ------------- |:-----------:| ------:|-------------------------:|----------------------:|-------------:|
+| 401 | 48 | 71 | 217 | 207 | 10412 |
+| 501 | 50 | 64 | 102 | 83 | 5109 |
+| 701 | 72 | 144 | 97 | 83 | 6990 |
 
 ## Investigators
 The investigators in this research are
