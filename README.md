@@ -32,7 +32,7 @@ The crowdsourcing experiments contain the following nubmer of conditions and vot
 
 ### CSV Format
 * `csXYZ_ratingsPerCondition.csv`: The first column indicates the condition (integer). The other columns contain the ratings from all subjects. Please note that the number of votes per condition varies.  
-* `csXYZ_ratingsPerUser.csv`: The CSV file contains three columns `userid, condition, ratings`
+* `csXYZ_ratingsPerUser.csv`: The CSV file contains three columns `userid, condition, rating`
 
 ## Investigators
 The investigators in this research are
