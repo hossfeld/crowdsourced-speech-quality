@@ -11,7 +11,7 @@ model its impact on validity and reliability.
 ## Database Description
 The database is published to the community and provides the subjective data from one of the crowdsourcing studies. A detailed description of the crowdsourcing study and the results can be found in the paper below. 
 
-For each of the three crowdsourcing experiments (XYZ = 401,501,701), the following two files are available which contain the subjective data from the crowdsourcing experiments as described in the **[QoMEX 2020] paper** below.
+For each of the three crowdsourcing experiments (XYZ = 401,501,701), the following two files are available which contain the subjective data from the crowdsourcing experiments as described in the **[QoMEX 2020] paper** below. The files only differ in the presentation of the data: `csXYZ_ratingsPerCondition` provides a list of ratings for all conditions; `csXYZ_ratingsPerUser` provides the ratings per user for the corresponding conditions rated by the user. In addition, a summary file `csXYZ_summaryPerCondition` per condition is provided.
 
 The crowdsourcing experiments contain the following nubmer of conditions and votes.
 
@@ -33,6 +33,7 @@ The crowdsourcing experiments contain the following nubmer of conditions and vot
 ### CSV Format
 * `csXYZ_ratingsPerCondition.csv`: The first column indicates the condition (integer). The other columns contain the ratings from all subjects. Please note that the number of votes per condition varies.  
 * `csXYZ_ratingsPerUser.csv`: The CSV file contains three columns `userid, condition, rating`
+* `csXYZ_summaryPerCondition`: Summary of the ratings per condition. The CSV file contains the following colums: `condition,MOS,SOS,total number ratings,#ratings 1,#ratings 2,#ratings 3,#ratings 4,#ratings 5` where `#ratings i` indicates the total number of ratings for score `i` for this condition for i=1,2,3,4,5.
 
 ## Investigators
 The investigators in this research are
