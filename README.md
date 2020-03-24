@@ -3,7 +3,7 @@
 The subjective quality of transmitted speech is traditionally assessed in a controlled laboratory environment according to ITU-T Rec. P.800. In turn, with crowdsourcing, crowdworkers participate in a subjective online experiment using their own listening device, and in their own working environment.
 
 The work by Naderi et al. (2020) investigates the impact of the number of judgments on the reliability and the validity of quality
-ratings collected through crowdsourcing-based speech quality assessments, as an input to ITU-T Rec. P.808 . Three crowdsourcing
+ratings collected through crowdsourcing-based speech quality assessments, as an input to [ITU-T Rec. P.808](https://www.itu.int/rec/T-REC-P.808/en) . Three crowdsourcing
 experiments on different platforms were conducted to evaluate the overall quality of three different speech datasets, using the
 Absolute Category Rating procedure. The results provide a suggestion on the required number of votes per condition, and allow to
 model its impact on validity and reliability.
@@ -31,12 +31,12 @@ The crowdsourcing experiments contain the following nubmer of conditions and vot
 
 ## Investigators
 The investigators in this research are
-* Babak Naderi, 
+* Babak Naderi, (babak.naderi@tu-berlin.de), Senior Researcher at [Quality and Usability Lab, Technische Universität Berlin](https://qu.tu-berlin.de/)
 * Tobias Hoßfeld (tobias.hossfeld@uni-wuerzburg.de), Professor and head of [Chair of Communication Networks, University of Würzburg](http://www.comnet.informatik.uni-wuerzburg.de/)
 * Matthias Hirth (matthias.hirth@tu-ilmenau.de), Jun.-Professor and head of [User-centric Analysis of Multimedia Data Group, TU Ilmenau](https://www.tu-ilmenau.de/en/mt-nam/)
 * Florian Metzger (florian.metzger@uni-wuerzburg.de), Postdoc Researcher at the [Chair of Communication Networks, University of Würzburg](http://www.comnet.informatik.uni-wuerzburg.de/)
-* Sebastian Möller, 
-* Rafael Zequeira Jiménez
+* Sebastian Möller, (sebastian.moeller@tu-berlin.de), Professor and head of [Quality and Usability Lab, Technische Universität Berlin](https://qu.tu-berlin.de/)
+* Rafael Zequeira Jiménez, (rafael.zequeira@tu-berlin.de), Research Scientist at [Quality and Usability Lab, Technische Universität Berlin](https://qu.tu-berlin.de/)
 
 ## Copyright Notice
 This database is published under the license: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
