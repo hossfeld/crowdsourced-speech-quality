@@ -13,6 +13,15 @@ The database is published to the community and provides the subjective data from
 
 For each of the three crowdsourcing experiments (XYZ = 401,501,701), the following two files are available which contain the subjective data from the crowdsourcing experiments as described in the **[QoMEX 2020] paper** below.
 
+The crowdsourcing experiments contain the following nubmer of conditions and votes.
+
+| CS Experiment | #Conditions | #User  | Avg. votes per condition | Min. #votes per cond. | Total #votes |
+| ------------- |:-----------:| ------:|-------------------------:|----------------------:|-------------:|
+| 401 | 48 | 71 | 217 | 207 | 10412 |
+| 501 | 50 | 64 | 102 | 83 | 5109 |
+| 701 | 72 | 144 | 97 | 83 | 6990 |
+
+### JSON Format
 * `csXYZ_ratingsPerCondition.json`
   * condition: integer
   * ratings: [list of ratings from users with ratings on a 5-point scale (1,2,3,4,5)]
@@ -21,13 +30,9 @@ For each of the three crowdsourcing experiments (XYZ = 401,501,701), the followi
   * conditions: [list of conditions rated by the user]
   * ratings: [list of ratings for the corresponding conditions]
 
-The crowdsourcing experiments contain the following nubmer of conditions and votes.
-
-| CS Experiment | #Conditions | #User  | Avg. votes per condition | Min. #votes per cond. | Total #votes |
-| ------------- |:-----------:| ------:|-------------------------:|----------------------:|-------------:|
-| 401 | 48 | 71 | 217 | 207 | 10412 |
-| 501 | 50 | 64 | 102 | 83 | 5109 |
-| 701 | 72 | 144 | 97 | 83 | 6990 |
+### CSV Format
+* `csXYZ_ratingsPerCondition.csv`: The first column indicates the condition (integer). The other columns contain the ratings from all subjects. Please note that the number of votes per condition varies.  
+* `csXYZ_ratingsPerUser.csv`: The CSV file contains three columns `userid, condition, ratings`
 
 ## Investigators
 The investigators in this research are
