@@ -9,7 +9,7 @@ Absolute Category Rating procedure. The results provide a suggestion on the requ
 model its impact on validity and reliability.
 
 ## Database Description
-The database is published to the community and provides the subjective data from one of the crowdsourcing studies. A detailed description of the crowdsourcing study and the results can be found in the paper below. 
+The database is published to the community and provides the subjective data from one of the crowdsourcing studies. A detailed description of the crowdsourcing study and the results can be found in the **[QoMEX 2020] paper**. 
 
 For each of the three crowdsourcing experiments (XYZ = 401,501,701), the following two files are available which contain the subjective data from the crowdsourcing experiments as described in the **[QoMEX 2020] paper** below. The files only differ in the presentation of the data: `csXYZ_ratingsPerCondition` provides a list of ratings for all conditions; `csXYZ_ratingsPerUser` provides the ratings per user for the corresponding conditions rated by the user. In addition, a summary file `csXYZ_summaryPerCondition` per condition is provided.
 
@@ -49,4 +49,4 @@ This database is published under the license: [CC BY-SA 4.0](https://creativecom
 Permission is hereby granted, without written agreement and without license or royalty fees, to use, copy, modify, and distribute this database and its documentation for any purpose, provided that the copyright notice in its entirety appear in all copies of this database, and the original source of this database is acknowledged in any publication that reports research using this database. If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.
 
 Originial source: The following paper is to be cited in the bibliography whenever the database is used.
-* **[QoMEX 2020]** Babak Naderi, Tobias Hoßfeld, Matthias Hirth, Florian Metzger, Sebastian Möller, Rafael Zequeira Jiménez, "Impact of the Number of Votes on the Reliability and Validity of Subjective Speech Quality Assessment in the Crowdsourcing Approach", 2020 Twelfth International Conference on Quality of Multimedia Experience (QoMEX)
+* **[QoMEX 2020]** Babak Naderi, Tobias Hoßfeld, Matthias Hirth, Florian Metzger, Sebastian Möller, Rafael Zequeira Jiménez, "Impact of the Number of Votes on the Reliability and Validity of Subjective Speech Quality Assessment in the Crowdsourcing Approach", 2020 Twelfth International Conference on Quality of Multimedia Experience (QoMEX). Preprint: [arXiv:2003.11300 ](http://arxiv.org/abs/2003.11300)
